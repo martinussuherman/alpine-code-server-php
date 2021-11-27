@@ -30,7 +30,7 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: martinussuherman/alpine-code-server-php:7
+          tags: martinussuherman/alpine-code-server-php:3.12.0-php7
 
       - name: Build and push php7 with laravel support image
         uses: docker/build-push-action@v2
@@ -39,4 +39,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: martinussuherman/alpine-code-server-php:7-laravel
+          tags: martinussuherman/alpine-code-server-php:3.12.0-php7-laravel
