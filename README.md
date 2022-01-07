@@ -8,7 +8,7 @@
 
 ## What is this image for ?
 
-This is an [Minimal Alpine Linux image with glibc](https://hub.docker.com/r/jeanblanchard/alpine-glibc) based image for [code-server](https://github.com/cdr/code-server/) bundled with [PHP 7](link). It enables one to run [VS Code](https://code.visualstudio.com/) in the browser for developing PHP 7 application.
+This is an [Minimal Alpine Linux image with glibc](https://hub.docker.com/r/jeanblanchard/alpine-glibc) based image for [code-server](https://github.com/cdr/code-server/) bundled with PHP. It enables one to run [VS Code](https://code.visualstudio.com/) in the browser for developing PHP application.
 
 ---
 
